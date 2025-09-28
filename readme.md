@@ -1,6 +1,6 @@
-# 📘 Evoflow
+# 📊 Evoflow
 Esse trabalho faz parte da Sprint de Agilidade 
-## 📊 Cenário de Negócio (Hipotético)
+## 🎯 Cenário de Negócio
 O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órgãos do governo no desenvolvimento de soluções digitais.  
 
 **Problema atual:** os times usam o GitLab, mas de formas diferentes, com boards heterogêneos e sem métricas comparáveis. Isso gera baixa previsibilidade, dificuldade de priorização e sobrecarga em Product Owners.  
@@ -10,15 +10,14 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 ---
 
 ## 👥 Mapeamento de Stakeholders
-- **Alta Gestão / Diretoria de TI:** precisa de relatórios executivos e visão consolidada de performance entre equipes.  
-- **Gestores Intermediários (Ex.: Eduardo):** tomam decisões de alocação, negociam prazos e precisam de informações rápidas.
+- **Gestores  (Ex.: Eduardo):** tomam decisões de alocação, negociam prazos e precisam de informações rápidas e precisa de relatórios executivos e visão consolidada de performance entre equipes. 
 - **Product Owners (Ex.: Carla):** acumulam funções de backlog, priorização e acompanhamento do time → precisam de métricas claras.  
 - **Equipe de Desenvolvimento (Ex.: Rogério):** busca clareza no fluxo, redução de multitarefa e feedback sobre produtividade.  
 - **Agile Coaches / Consultores externos:** (quando existem) apoiam evolução em práticas de fluxo e maturidade organizacional.  
 
 ---
 
-## 👩‍💻 Time Scrum (enxuto para o MVP)
+## 👩‍💻 Time Scrum (*enxuto para o MVP)
 - **PO:** define backlog, alinha stakeholders, garante valor de negócio.  
 - **Scrum Master (opcional, pode ser acumulado pelo PO):** facilita cerimônias e remoção de impedimentos.  
 - **2 Devs Fullstack (incluindo Rogério):** responsáveis por integração GitLab, board Kanban e dashboard.  
@@ -26,9 +25,11 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
 👉 **Time total:** 3 a 4 pessoas, entrega enxuta em 3–4 semanas por MVP.  
 
+## 🎯 Link da Apresentação Youtube  - Lean Inception
+👉 [Clique aqui Apresentação Youtube](https://tinyurl.com/evoflow-mvp)
 
-## 🎯 Board do Board do  - Lean Inception
-👉 [Link do Miro](https://miro.com/app/board/uXjVJCEiDYY=/?share_link_id=946748718869)
+## 🎯 Link do Board  - Lean Inception
+👉 [Clique aqui Board Miro](https://miro.com/app/board/uXjVJCEiDYY=/?share_link_id=946748718869)
 ---
 
 ## 🎯 MVP Canvas
@@ -36,7 +37,7 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
 **Problema:** falta de visibilidade ponta a ponta e métricas confiáveis.  
 
-**Solução:** integração com GitLab, board Kanban simplificado, limite de WIP e métricas básicas.  
+**Solução:** integração com GitLab, ashboard de Métricas Básicas, Visualização Kanban Simplificada básicas.  
 
 **Personas Impactadas:** devs (operacional), PO (tático), gestor intermediário (estratégico).  
 
@@ -45,45 +46,48 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 - POs usam métricas básicas em reuniões semanais.  
 - Gestores consultam o dashboard em até 2 min para tomar decisão.  
 
-**Métricas de Sucesso:** nº de equipes usando, tempo médio de login → board, acessos semanais ao dashboard.  
+**Métricas de Sucesso:** nº de equipes usando, tempo médio de login / board, acessos semanais ao dashboard.  
 
 ---
 
-## 📌 Backlog Inicial *Nao esquecer de atualizar ids das historias antes da entrega final do trabalho
+## 📌 Backlog Inicial 
+
+👉 [Backlog do Jira](./backlog/backlog-jira.pdf)
 
 ### Épico 1 – Integração com GitLab
-- [História S1 – Conectar repositório GitLab](imagens/S1.png)  
-- [História S2 – Issues atualizadas em tempo real](imagens/S2.png)  
+- [PME-10– Conectar repositório GitLab](.\backlog\img\PME-10.png)  
+- [PME-11– eIssues atualizadas em tempo ral](.\backlog\img\PME-11.png)  
 
 ### Épico 2 – Dashboard de Métricas Básicas
-- [História S3 – Visualizar métricas (lead time, throughput, aging WIP)](imagens/S3.png)  
-- [História S4 – Acompanhar aging WIP para priorização](imagens/S4.png)  
+- [PME-12– Visualizar métricas (lead time, throughput, aging WIP)](.\backlog\img\PME-12.png)  
+- [PME-13– Acompanhar aging WIP para priorização](.\backlog\img\PME-13.png)  
+
 
 ### Épico 3 – Visualização Kanban Simplificada
-- [História S5 – Board Kanban (To Do, In Progress, Done)](imagens/S5.png)  
-- [História S6 – Fluxo ponta a ponta com filtros](imagens/S6.png)  
+- [PME-14– Board Kanban (To Do, In Progress, Done)](.\backlog\img\PME-14.png)
+- [PME-15- Fluxo ponta a ponta com filtros](.\backlog\img\PME-15.png)
 
 ### Épico 4 – Roadmap de Maturidade (KMM)
-- [História S7 – Roadmap de práticas evolutivas (KMM)](imagens/S7.png)  
-- [História S8 – Comparar maturidade entre times](imagens/S8.png)  
+- PME-16 – Roadmap de práticas evolutivas (KMM)
+- PME-17 – Comparar maturidade entre times  
 
 ### Épico 5 – Alertas Automáticos
-- [História S9 – Alertas de bloqueios](imagens/S9.png)  
-- [História S10 – Alertas de gargalos de fluxo](imagens/S10.png)  
-- [História S11 – Alertas de WIP acima do limite](imagens/S11.png)  
+- PME-18 – Alertas de bloqueios  
+- PME-19 – Alertas de gargalos de fluxo 
+- PME-20 – Alertas de WIP acima do limite  
 
 ### Épico 6 – Relatórios Executivos
-- [História S12 – Relatórios executivos resumidos](imagens/S12.png)  
+- [PME-21 – Relatórios executivos resumidos]  
 
 ### Épico 7 – Previsibilidade
-- [História S13 – Previsões de entrega por histórico](imagens/S13.png)  
-- [História S14 – Previsibilidade de roadmap estratégico](imagens/S14.png)  
+- [PME-22 – Previsões de entrega por histórico]  
+- [PME-23 – Previsibilidade de roadmap estratégico]  
 
 ### Épico 8 – Integração com OKRs
-- [História S15 – Vincular métricas de fluxo a OKRs](imagens/S15.png)  
+- PME-24 – Vincular métricas de fluxo a OKRs  
 
 ### Épico 9 – Exportação de Relatórios
-- [História S16 – Exportar relatórios em PDF/Excel](imagens/S16.png)  
+- PME-25 – Exportar relatórios em PDF/Excel 
 
 ---
 
@@ -119,12 +123,18 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 **Objetivo da Sprint:** disponibilizar integração básica com GitLab e dashboard inicial de métricas.  
 
 **Itens planejados:**  
-- História S1 – Conexão inicial com GitLab.  
-- História S2 – Atualização em tempo real das issues.  
-- História S3 – Dashboard com métricas principais (lead time, throughput, aging WIP).  
+[Imagem do Backlog Sprint 1 exportado do JIRA](.\backlog\img\sprint-1-backlog.png)
+- [PME-10 – Conexão inicial com GitLab.](.\backlog\img\PME-10.png)   
+- [PME-11 – Atualização em tempo real das issues.](.\backlog\img\PME-11.png)   
+- [PME-12 – Dashboard com métricas principais (lead time, throughput, aging WIP).](.\backlog\img\PME-12.png)   
 - Enablers técnicos: API GitLab, banco de dados inicial, pipeline CI/CD.  
 
+
+[Imagem do backlog restante para as proximas Sprints.](.\backlog\backlog-restante.png)
 ---
 
 ## 🎨 Protótipo
-👉 [Link do Figma](https://www.figma.com/)*Nao esquecer de atualizar o link antes da entrega final do trabalho
+
+#### Link dOS WIREFRAMES
+
+[Tela de Login] (https://www.figma.com/)

@@ -28,9 +28,9 @@ Os POs acumulam funções de backlog, priorização e acompanhamento. Como não 
 ---
 
 ## 👥 Mapeamento de Stakeholders
-- **Gestores  (Ex.: Eduardo):** tomam decisões de alocação, negociam prazos e precisam de informações rápidas, relatórios executivos e visão consolidada de performance entre equipes. 
-- **Product Owners (Ex.: Carla):** acumulam funções de backlog, priorização e acompanhamento do time → precisam de métricas claras.  
-- **Equipe de Desenvolvimento (Ex.: Rogério):** busca clareza no fluxo, redução de multitarefa e feedback sobre produtividade.  
+- **Gestores:** tomam decisões de alocação, negociam prazos e precisam de informações rápidas, relatórios executivos e visão consolidada de performance entre equipes. 
+- **Product Owners:** acumulam funções de backlog, priorização e acompanhamento do time → precisam de métricas claras.  
+- **Equipe de Desenvolvimento:** busca clareza no fluxo, redução de multitarefa e feedback sobre produtividade.  
 - **Agile Coaches / Consultores externos:** (quando existem) apoiam evolução em práticas de fluxo e maturidade organizacional.  
 
 ---

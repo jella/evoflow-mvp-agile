@@ -1,5 +1,6 @@
 # 📊 Evoflow
-Esse trabalho faz parte da Sprint de Agilidade 
+Trabalho MVP Sprint de Gestão Ágil de Projetos e Produtos do Curso de Pos graduação em engenharia de software da PUC-RIO
+
 ## 🎯 Cenário de Negócio
 O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órgãos do governo no desenvolvimento de soluções digitais.  
 
@@ -10,14 +11,14 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 ---
 
 ## 👥 Mapeamento de Stakeholders
-- **Gestores  (Ex.: Eduardo):** tomam decisões de alocação, negociam prazos e precisam de informações rápidas e precisa de relatórios executivos e visão consolidada de performance entre equipes. 
+- **Gestores  (Ex.: Eduardo):** tomam decisões de alocação, negociam prazos e precisam de informações rápidas, relatórios executivos e visão consolidada de performance entre equipes. 
 - **Product Owners (Ex.: Carla):** acumulam funções de backlog, priorização e acompanhamento do time → precisam de métricas claras.  
 - **Equipe de Desenvolvimento (Ex.: Rogério):** busca clareza no fluxo, redução de multitarefa e feedback sobre produtividade.  
 - **Agile Coaches / Consultores externos:** (quando existem) apoiam evolução em práticas de fluxo e maturidade organizacional.  
 
 ---
 
-## 👩‍💻 Time Scrum (*enxuto para o MVP)
+## 👩‍💻 Time Scrum (time enxuto para o MVP)
 - **PO:** define backlog, alinha stakeholders, garante valor de negócio.  
 - **Scrum Master (opcional, pode ser acumulado pelo PO):** facilita cerimônias e remoção de impedimentos.  
 - **2 Devs Fullstack (incluindo Rogério):** responsáveis por integração GitLab, board Kanban e dashboard.  
@@ -135,7 +136,7 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
 ## 🎨 Protótipo
 
-#### Link dOS WIREFRAMES
+[Prototipo em PDF - Todas Telas](prototipo-wireframes/prototipo.pdf) 
 
 [Tela de Login](prototipo-wireframes/Login-Wireframe.jpg) 
 

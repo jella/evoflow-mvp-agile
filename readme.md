@@ -2,11 +2,28 @@
 Trabalho MVP Sprint de Gestão Ágil de Projetos e Produtos do Curso de Pos graduação em engenharia de software da PUC-RIO
 
 ## 🎯 Cenário de Negócio
-O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órgãos do governo no desenvolvimento de soluções digitais.  
+Organizações querem entregar valor com mais consistência e alinhamento estratégico, mas sofrem com falta de visibilidade, previsibilidade e conexão entre execução e estratégia.
 
-**Problema atual:** os times usam o GitLab, mas de formas diferentes, com boards heterogêneos e sem métricas comparáveis. Isso gera baixa previsibilidade, dificuldade de priorização e sobrecarga em Product Owners.  
 
-**Oportunidade:** fornecer uma plataforma integrada ao GitLab que transforma os dados de issues e merge requests em insights de fluxo e maturidade KMM, ajudando times a evoluírem de forma contínua, desde iniciantes (nível 1) até avançados (nível 6).  
+**Problema Atual:**
+- Dificuldade de priorização  
+- Baixa visibilidade do fluxo de trabalho  
+- Falta de previsibilidade nas entregas  
+- Desconexão entre execução e objetivos estratégicos  
+- Decisões baseadas em percepções, não em dados  
+- Sobrecarga e dificuldade em sustentar evolução contínua  
+
+**Oportunidade:**
+- Fornecer visibilidade ponta a ponta do fluxo de valor  
+- Gerar previsibilidade confiável para compromissos e prazos  
+- Apoiar líderes e equipes na tomada de decisão com dashboards adequados a cada perfil  
+- Conectar execução diária à estratégia da organização  
+- Sustentar a evolução de maturidade de forma incremental com apoio do KMM  
+- Automatizar coleta de métricas para reduzir esforço manual e aumentar confiabilidade  
+
+Os POs acumulam funções de backlog, priorização e acompanhamento. Como não existe visibilidade unificada do fluxo, eles gastam muito tempo “traduzindo” informações de boards diferentes, perdendo espaço para focar em estratégia e valor de negócio.
+
+**Oportunidade:** fornecer uma plataforma integrada ao GitLab que transforma os dados de issues e merge requests em insights de gestao de fluxo, ajudando times a evoluírem de forma contínua, desde niveis iniciantes ate niveis avançados.  
 
 ---
 
@@ -132,8 +149,8 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 - [PME-12 – Dashboard com métricas principais (lead time, throughput, aging WIP).](backlog/img/PME-12.png)   
 - Enablers técnicos: API GitLab, banco de dados inicial, pipeline CI/CD.  
 
-
 [Imagem do backlog restante para as proximas Sprints.](backlog/img/backlog-restante.png)
+
 ---
 
 ## 🎨 Protótipo

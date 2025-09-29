@@ -27,10 +27,10 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
  **Time total:** 3 a 4 pessoas, entrega enxuta em 3–4 semanas por MVP.  
 
 ## 🔗 Links 
-####  Link da Apresentação Youtube  - Lean Inception
+###  Link da Apresentação Youtube  - Lean Inception
  [Clique aqui Apresentação Youtube](https://tinyurl.com/evoflow-mvp)
 
-#### Link do Board  - Lean Inception
+### Link do Board  - Lean Inception
  [Clique aqui Board Miro](https://miro.com/app/board/uXjVJCEiDYY=/?share_link_id=946748718869)
  
 ---
@@ -126,7 +126,7 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 **Objetivo da Sprint:** disponibilizar integração básica com GitLab e dashboard inicial de métricas.  
 
 **Itens planejados:**  
-[Imagem do Backlog Sprint 1 exportado do JIRA](backlog/img/sprint-1-backlog.png)
+[Imagem do Backlog Sprint 1 exportado do JIRA](backlog/img/Sprint-1-backlog.png)
 - [PME-10 – Conexão inicial com GitLab.](backlog/img/PME-10.png)   
 - [PME-11 – Atualização em tempo real das issues.](backlog/img/PME-11.png)   
 - [PME-12 – Dashboard com métricas principais (lead time, throughput, aging WIP).](backlog/img/PME-12.png)   

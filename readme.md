@@ -26,11 +26,13 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
  **Time total:** 3 a 4 pessoas, entrega enxuta em 3–4 semanas por MVP.  
 
-## ▶️ Link da Apresentação Youtube  - Lean Inception
+## 🔗 Links 
+####  Link da Apresentação Youtube  - Lean Inception
  [Clique aqui Apresentação Youtube](https://tinyurl.com/evoflow-mvp)
 
-## 🎯 Link do Board  - Lean Inception
+#### Link do Board  - Lean Inception
  [Clique aqui Board Miro](https://miro.com/app/board/uXjVJCEiDYY=/?share_link_id=946748718869)
+ 
 ---
 
 ## 🎯 MVP Canvas

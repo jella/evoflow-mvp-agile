@@ -52,20 +52,20 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
 ## 📌 Backlog Inicial 
 
-👉 [Backlog do Jira](./backlog/backlog-jira.pdf)
+👉 [Backlog do Jira](backlog/backlog-jira.pdf)
 
 ### Épico 1 – Integração com GitLab
-- [PME-10– Conectar repositório GitLab](./backlog/img/PME-10.png)  
-- [PME-11– eIssues atualizadas em tempo ral](./backlog/img/PME-11.png)  
+- [PME-10– Conectar repositório GitLab](backlog/img/PME-10.png)  
+- [PME-11– eIssues atualizadas em tempo ral](backlog/img/PME-11.png)  
 
 ### Épico 2 – Dashboard de Métricas Básicas
-- [PME-12– Visualizar métricas (lead time, throughput, aging WIP)](./backlog/img/PME-12.png)  
-- [PME-13– Acompanhar aging WIP para priorização](./backlog/img/PME-13.png)  
+- [PME-12– Visualizar métricas (lead time, throughput, aging WIP)](backlog/img/PME-12.png)  
+- [PME-13– Acompanhar aging WIP para priorização](backlog/img/PME-13.png)  
 
 
 ### Épico 3 – Visualização Kanban Simplificada
-- [PME-14– Board Kanban (To Do, In Progress, Done)](./backlog/img/PME-14.png)
-- [PME-15- Fluxo ponta a ponta com filtros](./backlog/img/PME-15.png)
+- [PME-14– Board Kanban (To Do, In Progress, Done)](backlog/img/PME-14.png)
+- [PME-15- Fluxo ponta a ponta com filtros](backlog/img/PME-15.png)
 
 ### Épico 4 – Roadmap de Maturidade (KMM)
 - PME-16 – Roadmap de práticas evolutivas (KMM)
@@ -123,29 +123,29 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 **Objetivo da Sprint:** disponibilizar integração básica com GitLab e dashboard inicial de métricas.  
 
 **Itens planejados:**  
-[Imagem do Backlog Sprint 1 exportado do JIRA](./backlog/img/sprint-1-backlog.png)
-- [PME-10 – Conexão inicial com GitLab.](./backlog/img/PME-10.png)   
-- [PME-11 – Atualização em tempo real das issues.](./backlog/img/PME-11.png)   
-- [PME-12 – Dashboard com métricas principais (lead time, throughput, aging WIP).](./backlog/img/PME-12.png)   
+[Imagem do Backlog Sprint 1 exportado do JIRA](backlog/img/sprint-1-backlog.png)
+- [PME-10 – Conexão inicial com GitLab.](backlog/img/PME-10.png)   
+- [PME-11 – Atualização em tempo real das issues.](backlog/img/PME-11.png)   
+- [PME-12 – Dashboard com métricas principais (lead time, throughput, aging WIP).](backlog/img/PME-12.png)   
 - Enablers técnicos: API GitLab, banco de dados inicial, pipeline CI/CD.  
 
 
-[Imagem do backlog restante para as proximas Sprints.](./backlog/img/backlog-restante.png)
+[Imagem do backlog restante para as proximas Sprints.](backlog/img/backlog-restante.png)
 ---
 
 ## 🎨 Protótipo
 
 #### Link dOS WIREFRAMES
 
-[Tela de Login](./prototipo-wireframes/Login-Wireframe.jpg) 
+[Tela de Login](prototipo-wireframes/Login-Wireframe.jpg) 
 
-[Tela Conexao Gitlab](./prototipo-wireframes/Conexao-Gitlab-Wireframe.jpg)
+[Tela Conexao Gitlab](prototipo-wireframes/Conexao-Gitlab-Wireframe.jpg)
 
-[Tela de Dashboard](./prototipo-wireframes/Dashboard-Metrica-Wireframe.jpg)
+[Tela de Dashboard](prototipo-wireframes/Dashboard-Metrica-Wireframe.jpg)
 
-[Tela de Board Simplificado](./prototipo-wireframes/Kanban-Board-Simplificado.jpg)
+[Tela de Board Simplificado](prototipo-wireframes/Kanban-Board-Simplificado.jpg)
 
-[Tela Board End-to-End](./prototipo-wireframes/Board-End-to-End-Wireframe.jpg)
+[Tela Board End-to-End](prototipo-wireframes/Board-End-to-End-Wireframe.jpg)
 
-[Tela de Roadmap de Maturidade](./prototipo-wireframes/Roadmap-Maturidade-Wireframe.jpg)
-[Tela Comparativo Maturidade Times](./prototipo-wireframes/Comparativo-de-Maturidade-Wireframe.jpg)
+[Tela de Roadmap de Maturidade](prototipo-wireframes/Roadmap-Maturidade-Wireframe.jpg)
+[Tela Comparativo Maturidade Times](prototipo-wireframes/Comparativo-de-Maturidade-Wireframe.jpg)

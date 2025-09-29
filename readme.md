@@ -153,7 +153,7 @@ Objetivo é fornecer uma plataforma integrada ao GitLab que transforma os dados 
 
 ## 🎨 Protótipo
 
-[Prototipo em PDF - Todas Telas](prototipo-wireframes/prototipo.pdf) 
+[Prototipo em PDF - Todas as Telas](prototipo-wireframes/prototipo.pdf) 
 
 [Tela de Login](prototipo-wireframes/Login-Wireframe.jpg) 
 
@@ -166,4 +166,5 @@ Objetivo é fornecer uma plataforma integrada ao GitLab que transforma os dados 
 [Tela Board End-to-End](prototipo-wireframes/Board-End-to-End-Wireframe.jpg)
 
 [Tela de Roadmap de Maturidade](prototipo-wireframes/Roadmap-Maturidade-Wireframe.jpg)
+
 [Tela Comparativo Maturidade Times](prototipo-wireframes/Comparativo-de-Maturidade-Wireframe.jpg)

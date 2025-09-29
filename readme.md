@@ -24,13 +24,13 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 - **2 Devs Fullstack (incluindo Rogério):** responsáveis por integração GitLab, board Kanban e dashboard.  
 - **1 UX Designer:** cria wireframes e garante usabilidade.  
 
-👉 **Time total:** 3 a 4 pessoas, entrega enxuta em 3–4 semanas por MVP.  
+ **Time total:** 3 a 4 pessoas, entrega enxuta em 3–4 semanas por MVP.  
 
 ## ▶️ Link da Apresentação Youtube  - Lean Inception
-👉 [Clique aqui Apresentação Youtube](https://tinyurl.com/evoflow-mvp)
+ [Clique aqui Apresentação Youtube](https://tinyurl.com/evoflow-mvp)
 
 ## 🎯 Link do Board  - Lean Inception
-👉 [Clique aqui Board Miro](https://miro.com/app/board/uXjVJCEiDYY=/?share_link_id=946748718869)
+ [Clique aqui Board Miro](https://miro.com/app/board/uXjVJCEiDYY=/?share_link_id=946748718869)
 ---
 
 ## 🎯 MVP Canvas
@@ -53,7 +53,7 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
 ## 📌 Backlog Inicial 
 
-👉 [Backlog do Jira](backlog/backlog-jira.pdf)
+[Backlog do Jira](backlog/backlog-jira.pdf)
 
 ### Épico 1 – Integração com GitLab
 - [PME-10– Conectar repositório GitLab](backlog/img/PME-10.png)  
@@ -94,7 +94,7 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 
 ## 📏 Definições
 
-### ✅ Definition of Ready (DoR)
+### Definition of Ready (DoR)
 - História clara (“Como [persona], quero [funcionalidade] para [benefício]”)  
 - Critérios de aceite definidos  
 - Dependências identificadas  
@@ -104,7 +104,7 @@ O EvoFlow nasce em uma empresa pública de tecnologia que apoia diferentes órg�
 - Sem impedimentos conhecidos  
 - Métricas de sucesso definidas  
 
-### 🔵 Definition of Done (DoD)
+### Definition of Done (DoD)
 - Código implementado, revisado e integrado  
 - Atende 100% dos critérios de aceite  
 - Testes automatizados (mín. 80% cobertura)  

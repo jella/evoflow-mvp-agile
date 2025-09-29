@@ -36,7 +36,7 @@ Objetivo é fornecer uma plataforma integrada ao GitLab que transforma os dados 
 ## 👩‍💻 Time Scrum (time enxuto para o MVP)
 - **PO:** define backlog, alinha stakeholders, garante valor de negócio.  
 - **Scrum Master (opcional, pode ser acumulado pelo PO):** facilita cerimônias e remoção de impedimentos.  
-- **2 Devs Fullstack (incluindo Rogério):** responsáveis por integração GitLab, board Kanban e dashboard.  
+- **2 Devs Fullstack:** responsáveis por integração GitLab, board Kanban e dashboard.  
 - **1 UX Designer:** cria wireframes e garante usabilidade.  
 
  **Time total:** 3 a 4 pessoas, entrega enxuta em 3–4 semanas por MVP.  

@@ -15,15 +15,13 @@ Organizações querem entregar valor com mais consistência e alinhamento estrat
 
 **Oportunidade:**
 - Fornecer visibilidade ponta a ponta do fluxo de valor  
-- Gerar previsibilidade confiável para compromissos e prazos  
-- Apoiar líderes e equipes na tomada de decisão com dashboards adequados a cada perfil  
+- Auxiliar a previsibilidade 
+- Apoiar líderes e equipes na tomada de decisão com dashboards e insights  
 - Conectar execução diária à estratégia da organização  
-- Sustentar a evolução de maturidade de forma incremental com apoio do KMM  
+- Sustentar a evolução de maturidade de forma incremental  
 - Automatizar coleta de métricas para reduzir esforço manual e aumentar confiabilidade  
 
-Os POs acumulam funções de backlog, priorização e acompanhamento. Como não existe visibilidade unificada do fluxo, eles gastam muito tempo “traduzindo” informações de boards diferentes, perdendo espaço para focar em estratégia e valor de negócio.
-
-**Oportunidade:** fornecer uma plataforma integrada ao GitLab que transforma os dados de issues e merge requests em insights de gestao de fluxo, ajudando times a evoluírem de forma contínua, desde niveis iniciantes ate niveis avançados.  
+Objetivo é fornecer uma plataforma integrada ao GitLab que transforma os dados de issues e merge requests em insights de gestao de fluxo, ajudando times a evoluírem de forma contínua, desde niveis iniciantes ate niveis avançados e Auxiliar os gestores na tomada de decisao.
 
 ---
 

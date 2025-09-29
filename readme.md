@@ -55,7 +55,7 @@ Objetivo é fornecer uma plataforma integrada ao GitLab que transforma os dados 
 
 **Problema:** falta de visibilidade ponta a ponta e métricas confiáveis.  
 
-**Solução:** integração com GitLab, ashboard de Métricas Básicas, Visualização Kanban Simplificada básicas.  
+**Solução:** integração com GitLab, Dashboard de Métricas Básicas, Visualização Kanban Simplificada básicas.  
 
 **Personas Impactadas:** devs (operacional), PO (tático), gestor intermediário (estratégico).  
 

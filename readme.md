@@ -113,13 +113,12 @@ Objetivo é fornecer uma plataforma integrada ao GitLab que transforma os dados 
 
 ### Definition of Ready (DoR)
 - História clara (“Como [persona], quero [funcionalidade] para [benefício]”)  
-- Critérios de aceite definidos  
+- Critérios de aceite definidos no formato BDD 
 - Dependências identificadas  
 - Estimativa de esforço pelo time  
 - Valor de negócio validado pelo PO  
-- UI/UX disponível (quando aplicável)  
 - Sem impedimentos conhecidos  
-- Métricas de sucesso definidas  
+
 
 ### Definition of Done (DoD)
 - Código implementado, revisado e integrado  
